@@ -1,0 +1,2 @@
+<link rel="icon" type="image/x-icon" href="https://fontmeme.com/permalink/220502/80fd8618bc7272a7f2099cd565f0d75d.png">
+<!-- <a href="https://fontmeme.com/fonts/valorant-font/"><img src="https://fontmeme.com/permalink/220502/80fd8618bc7272a7f2099cd565f0d75d.png" alt="valorant-font" border="0"></a> -->
